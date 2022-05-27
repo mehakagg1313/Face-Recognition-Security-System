@@ -1,0 +1,9 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+.headnames {
+    margin-top: 50px;
+    padding-top: 20px;
+}

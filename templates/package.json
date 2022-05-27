@@ -1,0 +1,27 @@
+{
+  "name": "aiclub_website",
+  "version": "1.0.0",
+  "description": "This website allows you to view the events happening around you. You can also add events as an organiser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanya347/AICLUB_WEBSITE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanya347/AICLUB_WEBSITE/issues"
+  },
+  "homepage": "https://github.com/Tanya347/AICLUB_WEBSITE#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "nodemailer": "^6.7.5",
+    "nodemailer-mailgun-transport": "^2.1.4"
+  }
+}
