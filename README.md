@@ -37,7 +37,7 @@
 
 ### Salient Features
 * At the time of Face is captured and matched with face associated with the dataset
-* Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
+* Identify unknown persons that are not registered and send notifications via emails with current date and time.
 * One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
 
 ### Built With
