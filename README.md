@@ -33,8 +33,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Microsoft Teams clone project built during Microsoft Engage 2021 program. 
-* It is a video call and chat application through which we can chat before, during and after a video call. 
+* Face Recognition Security System project built during Microsoft Engage 2022 program. 
+* This programme processes frames from live video and compares detected faces against a set of known face encodings. 
 * The video call can take place between maximum 2 people at once.
 
 ### Salient Features
