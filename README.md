@@ -36,9 +36,10 @@
 * If there is no match found, the person is considered to be an intruder and an email is sent with an image of the intruder by invoking a shell script..
 
 ### Salient Features
-* At the time of Face is captured and matched with face associated with the dataset
+* Real Time Security
+* It  deals with non frontal face detection.
 * Identify unknown persons that are not registered and send notifications via emails with current date and time.
-* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
+
 
 ### Built With
 
