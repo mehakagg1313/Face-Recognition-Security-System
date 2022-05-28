@@ -90,9 +90,9 @@ Run the following commands to start the client side and run it on your local hos
   node index.js
 ```
 ## Features & Interfaces (Glimpses of Web Application):
- ####Landing page
-![Screenshot (52)](https://user-images.githubusercontent.com/77895187/170818250-1e3b6c17-4aa0-41f5-b5c8-94373752df7e.png)
-
-####After clicking on Identify Me 
-####Services
+#### Landing page
 ![Screenshot (51)](https://user-images.githubusercontent.com/77895187/170818251-df799419-cb49-4e54-826a-9521ffc30ab5.png)
+
+#### After clicking on Identify Me 
+#### Services
+![Screenshot (52)](https://user-images.githubusercontent.com/77895187/170818250-1e3b6c17-4aa0-41f5-b5c8-94373752df7e.png)
