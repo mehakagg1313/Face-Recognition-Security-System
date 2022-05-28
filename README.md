@@ -15,8 +15,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#salient-features">Salient Features</a></li>
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
-        <li><a href="#built-with">Built With</a></li>
+       <li><a href="#built-with">Built With</a></li>
+        <li><a href="#compatible-platforms">Compatible Platforms</a></li>    
       </ul>
     </li>
       <a href="#getting-started">Getting Started</a>
@@ -25,12 +25,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#app">Navigating through the App</a></li><ul>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#chat-window">Chat Window</a></li>
-        <li><a href="#video-call">Video Call</a></li>
+    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
       </ul>
-    <li><a href="#resources-used">Resources Used</a></li>
   </ol>
 </details>
 
@@ -51,15 +47,12 @@ Laptops, Desktops and Tablet PCs
 
 ### Built With
 
-### Video Call Application: 
-* ![Front-end][front-end-shield]
-* ![Back-end][back-end-shield]
-* ![Tools][tools-shield]
+###  Application: 
+* Front-end
+  HTML , CSS , Bootstrap
+* Back-end
+  Node-Js , Express
 
-### Chat Application: 
-* ![Front-end][front-end-shield-1]
-* ![Back-end][back-end-shield-1]
-* ![Tools][tools-shield-1]
 
 
 ## Notes
