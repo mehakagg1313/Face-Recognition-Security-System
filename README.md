@@ -35,7 +35,7 @@
 ## About The Project
 * Face Recognition Security System project built during Microsoft Engage 2022 program. 
 * This programme processes frames from live video and compares detected faces against a set of known face encodings. 
-* The video call can take place between maximum 2 people at once.
+* If there is no match found, the person is considered to be an intruder and an email is sent with an image of the intruder by invoking a shell script..
 
 ### Salient Features
 * At the time of Face is captured and matched with face associated with the dataset
@@ -44,11 +44,13 @@
 
 ### Built With
 
-###  Application: 
+###  Tech Stack: 
 * Front-end :
-  HTML , CSS , Bootstrap
+  HTML5, CSS3,Javascript, Bootstrap
 * Back-end :
-  Node JS , Express
+  Django, Python
+* Face Recogntion library: 
+ Opencv, cv2, os, face_recognition
 
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
