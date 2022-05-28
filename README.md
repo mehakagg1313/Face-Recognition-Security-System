@@ -80,5 +80,5 @@ Run the following commands to start the client side and run it on your local hos
   cd templates
 ```
 ```sh
-  npm install && npm start
+  node index.js
 ```
