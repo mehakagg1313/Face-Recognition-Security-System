@@ -36,9 +36,10 @@
 * If there is no match found, the person is considered to be an intruder and an email is sent with an image of the intruder by invoking a shell script..
 
 ### Salient Features
-* At the time of Face is captured and matched with face associated with the dataset
+* Real Time Security
+* It  deals with non frontal face detection.
 * Identify unknown persons that are not registered and send notifications via emails with current date and time.
-* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
+
 
 ### Built With
 
@@ -91,6 +92,13 @@ Run the following commands to start the client side and run it on your local hos
 #### Landing page
 ![Screenshot (51)](https://user-images.githubusercontent.com/77895187/170818251-df799419-cb49-4e54-826a-9521ffc30ab5.png)
 
-#### After clicking on Identify Me 
+#### Performing Face Recognition
+![Screenshot (56)](https://user-images.githubusercontent.com/77895187/170836497-aaee0a01-f164-4250-b084-189a519525e8.png)
+
+
+####  This programme processes frames from live video and compares detected faces against a set of known face encodings.
+https://user-images.githubusercontent.com/77895187/170843516-f8a967de-abe2-4252-9dd8-068ede012c2c.mp4
+
+
 #### Services
 ![Screenshot (52)](https://user-images.githubusercontent.com/77895187/170818250-1e3b6c17-4aa0-41f5-b5c8-94373752df7e.png)
