@@ -66,7 +66,7 @@ depend on, and they will be installed using:
 pip install -r requirements.txt
 ```
 
-### Installation
+### Instruction
 
 To run the application run the command 
 ```sh
