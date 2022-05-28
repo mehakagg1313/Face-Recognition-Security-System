@@ -1,5 +1,5 @@
 <h1 align="center">HOME SECURITY SYSTEM
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
+  ![apple-touch-icon-57x57-precomposed](https://user-images.githubusercontent.com/77895187/170813772-1fe9ca25-53c3-4099-9d47-26daa18ecfe6.png)
 </h1>
 
 <p align="center">
