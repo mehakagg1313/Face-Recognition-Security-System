@@ -48,7 +48,7 @@
 * Front-end :
   HTML5, CSS3,Javascript, Bootstrap
 * Back-end :
-  Django, Python
+  Flask, Python
 * Face Recogntion library: 
  Opencv, cv2, os, face_recognition
 
