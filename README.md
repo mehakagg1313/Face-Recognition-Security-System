@@ -42,18 +42,16 @@
 * Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
 * One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
 
-### Compatible Platforms
-Laptops, Desktops and Tablet PCs
-
 ### Built With
 
 ###  Application: 
-* Front-end
+* Front-end :
   HTML , CSS , Bootstrap
-* Back-end
-  Node-Js , Express
+* Back-end :
+  Node JS , Express
 
-
+### Compatible Platforms
+Laptops, Desktops and Tablet PCs
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
