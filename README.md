@@ -53,10 +53,32 @@
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
 
-## Notes
+
+## Getting Started
+To install and run the project on your local system, following are the requirements:
+### Prerequisites
 The `requirements.txt` file should list all Python libraries that your notebooks
 depend on, and they will be installed using:
 
 ```
 pip install -r requirements.txt
+```
+
+### Installation
+
+* Web Application
+
+To separately run the Web application on your local host, perform the following steps:
+
+Run the following commands to start the server side.
+
+```sh
+  npm install && npm start
+```
+Run the following commands to start the client side and run it on your local host
+```sh
+  cd templates
+```
+```sh
+  npm install && npm start
 ```
