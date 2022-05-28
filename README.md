@@ -1,12 +1,66 @@
-<h1 align="center">HOME SECURITY SYSTEM
-  ![apple-touch-icon-57x57-precomposed](https://user-images.githubusercontent.com/77895187/170813772-1fe9ca25-53c3-4099-9d47-26daa18ecfe6.png)
-</h1>
+<h1 align="center">HOME SECURITY SYSTEM</h1>
 
 <p align="center">
  <a target="_blank" href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
     ·
  <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
 </p>
+
+    
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#salient-features">Salient Features</a></li>
+        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#app">Navigating through the App</a></li><ul>
+        <li><a href="#login">Login</a></li>
+        <li><a href="#chat-window">Chat Window</a></li>
+        <li><a href="#video-call">Video Call</a></li>
+      </ul>
+    <li><a href="#resources-used">Resources Used</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+* Microsoft Teams clone project built during Microsoft Engage 2021 program. 
+* It is a video call and chat application through which we can chat before, during and after a video call. 
+* The video call can take place between maximum 2 people at once.
+
+### Salient Features
+* User authentication using Firebase and login via Google and Facebook
+* Creating and deleting chat groups, adding and removing people by the group admin, photo sharing, chat text formatting, read receipts, typing status of users
+* One-on-one video call with randomly generated unique link and the ability to mute and unmute audio and video during the call
+
+### Compatible Platforms
+Laptops, Desktops and Tablet PCs
+
+### Built With
+
+### Video Call Application: 
+* ![Front-end][front-end-shield]
+* ![Back-end][back-end-shield]
+* ![Tools][tools-shield]
+
+### Chat Application: 
+* ![Front-end][front-end-shield-1]
+* ![Back-end][back-end-shield-1]
+* ![Tools][tools-shield-1]
+
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
