@@ -1,21 +1,21 @@
 {
-  "name": "aiclub_website",
+  "name": "security_system_website",
   "version": "1.0.0",
-  "description": "This website allows you to view the events happening around you. You can also add events as an organiser.",
+  "description": "This website allows you to provides comprehensive security solutions to meet all your security needs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tanya347/AICLUB_WEBSITE.git"
+    "url": "git+https://github.com/mehakagg1313/Face-Recognition-Security-System"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tanya347/AICLUB_WEBSITE/issues"
+    "url": "https://github.com/mehakagg1313/Face-Recognition-Security-System"
   },
-  "homepage": "https://github.com/Tanya347/AICLUB_WEBSITE#readme",
+  "homepage": "https://github.com/mehakagg1313/Face-Recognition-Security-System#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
