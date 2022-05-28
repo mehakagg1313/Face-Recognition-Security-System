@@ -92,7 +92,7 @@ Run the following commands to start the client side and run it on your local hos
 #### Landing page
 ![Screenshot (51)](https://user-images.githubusercontent.com/77895187/170818251-df799419-cb49-4e54-826a-9521ffc30ab5.png)
 
-#### Detecting the face for recognition
+#### Performing Face Recognition
 ![Screenshot (56)](https://user-images.githubusercontent.com/77895187/170836497-aaee0a01-f164-4250-b084-189a519525e8.png)
 
 #### Services
