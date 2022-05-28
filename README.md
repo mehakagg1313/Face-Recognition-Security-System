@@ -50,7 +50,7 @@
 * Back-end :
   Flask, Python
 * Face Recogntion library: 
- Opencv, cv2, os, face_recognition
+ Opencv, cv2, os, sys, face_recognition
 
 ### Compatible Platforms
 Laptops, Desktops and Tablet PCs
@@ -67,6 +67,11 @@ pip install -r requirements.txt
 ```
 
 ### Installation
+
+To run the application run the command 
+```sh
+  python app.py
+```
 
 * Web Application
 
