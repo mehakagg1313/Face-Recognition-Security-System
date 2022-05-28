@@ -6,7 +6,7 @@
  <a target="_blank" href="https://microsoft-teams-engage.netlify.app/">Link to the App</a>
     ·
  <a target="_blank" href="https://youtu.be/O7uGtnhZe2s">Video Demo</a>
-<
+</p>
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
