@@ -1,7 +1,7 @@
 <h1 align="center">HOME SECURITY SYSTEM</h1>
 
 <p align="center">
- <a target="_blank" href="https://drive.google.com/file/d/1mwXoAp8VMO9XeV4o94l6xOgLkuQERjaD/view?usp=sharing">Video Demo</a>
+ <!--<a target="_blank" href="https://drive.google.com/file/d/1mwXoAp8VMO9XeV4o94l6xOgLkuQERjaD/view?usp=sharing">Video Demo</a> -->
 </p>
 
     
